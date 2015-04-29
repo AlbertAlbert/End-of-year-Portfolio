@@ -1,0 +1,52 @@
+h3 { background: lightblue;
+     font-family: verdana;
+     font-size: 40px;
+     border: solid 10px;
+     text-align: center;
+     color: black;
+     border-color: black;
+     
+}
+
+p { font-family: verdana;
+    font-size: 24px;
+    border: 2px solid black;
+    background: lightblue;
+    
+}
+
+ul {font-family: verdana;
+    font-size: 24px;
+    background: lightblue;
+    border: 2px solid black;
+}
+
+ol {
+    font-family: verdana;
+    font-size: 24px;
+    background: lightblue;
+    border: 2px solid black;
+}
+
+html {
+    background: peachpuff;
+}
+
+span {
+    font-size:30px;
+    font-family:Verdana;
+    color: black;
+}
+#navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#navbar-list li {
+    display: inline;
+    color: white;
+    padding-left: 20px;
+    padding-right: 40px;
+    font-family: Helvetica;
+}

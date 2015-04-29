@@ -1,0 +1,48 @@
+body{
+	background-color: white;
+}
+
+#display{
+	width:162px;
+	height: 50px;
+	border: 1px solid black;
+	margin-bottom: 5px;
+	text-align:right;
+overflow: hidden;
+
+}
+
+.row{
+
+}
+
+.button{
+	background-color: pink;
+	display:inline-block;
+	height: 50px;
+	width: 50px;
+	border: 1px solid black;
+	text-align:center;
+	transition: all 0.5s ease;
+}
+
+.button:hover{
+	background-color:lightgreen;
+}
+
+
+.opp{
+	background-color: lightblue;
+}#navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#navbar-list li {
+    display: inline;
+    color: white;
+    padding-left: 58px;
+    padding-right: 70px;
+    font-family: Helvetica;
+}

@@ -1,0 +1,49 @@
+/*
+    Document   : style.css
+    Created on : 2015-04-28 06:33 PM
+    Author     : AlbertAlbertAlbert
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+
+#Vind {
+text-align: center;    
+font-size: 300%
+}
+
+p {
+    font-size: 150%
+    
+}
+
+#img {
+    text-align: center;
+}
+
+#Bot {
+    background: lightgreen;
+    border: 1px solid black
+    
+}
+
+html {
+    background: lightblue
+}
+#navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#navbar-list li {
+    display: inline;
+    color: white;
+    padding-left: 58px;
+    padding-right: 70px;
+    font-family: Helvetica;
+}

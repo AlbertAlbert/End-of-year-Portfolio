@@ -1,0 +1,37 @@
+html { 
+    background-color:lightgreen;
+}
+#jsalarmclock{
+font-family: Tahoma;
+font-weight: bold;
+font-size: 14px;
+}
+
+#jsalarmclock div{
+margin-bottom: 0.8em;
+}
+
+#jsalarmclock div.leftcolumn{
+float: left;
+width: 150px;
+font-size: 14px;
+
+clear: left;
+}
+
+#jsalarmclock span{
+margin-right: 5px;
+}
+#navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#navbar-list li {
+    display: inline;
+    color: white;
+    padding-left: 58px;
+    padding-right: 70px;
+    font-family: Helvetica;
+}
