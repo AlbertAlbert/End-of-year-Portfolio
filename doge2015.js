@@ -250,3 +250,4 @@ function euphoria(){
   doge.happiness = 2;
   doge.hunger = 999999;
 }
+32
